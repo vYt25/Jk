@@ -1,0 +1,1 @@
+{"version":1,"defects":{"SampleTest::testInsert":4},"times":{"SampleTest::testTrueAssertsToTrue":0.005,"SampleTest::testInsert":0.004}}

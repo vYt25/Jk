@@ -1,0 +1,20 @@
+{
+    "name": "vesselsvalue/techtest",
+    "type": "project",
+    "authors": [
+        {
+            "name": "VesselsValue",
+            "email": "joshparker@vesselsvalue.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "require": {
+        "faapz/pdo": "^2.1",
+        "vlucas/phpdotenv": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {"app\\": "app/"}
+    }
+}
